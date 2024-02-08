@@ -53,5 +53,5 @@ const Accordion = () => {
     </div>
   )
 }
-// Code By Devanjoy Das , NIT MANIPUR 
+// Code By Devanjoy Das
 export default Accordion

@@ -1,0 +1,14 @@
+.flexContainer{
+    display: flex;
+    gap: 5px;
+}
+
+.stars{
+    height: 30px;
+    width: 30px;
+    border : 2px solid black
+}
+
+.showColor{
+    background-color: red;
+}
