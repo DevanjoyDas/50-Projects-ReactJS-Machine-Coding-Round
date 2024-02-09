@@ -1,0 +1,18 @@
+.wholeContainer{
+    display: flex;
+    gap: 5px;
+}
+.flexImageContainer{
+    height: 400px;
+    width: 500px;
+    display: flex;
+}
+.eachImageHiddenClass{
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+.eachImageVisibleClass{
+    height: 100%;
+    width: 100%;
+}
