@@ -1,0 +1,14 @@
+.cont{
+    width: 100vw;
+}
+.scrollBar{
+    height: 10px;
+    background-color: red;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.imgProps{
+    height: 300px;
+    width: 300px;
+}
