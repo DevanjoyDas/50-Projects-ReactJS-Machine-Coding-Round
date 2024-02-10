@@ -1,0 +1,27 @@
+:root{
+    --bgColor : white;
+    --txtColor : black;
+    --btnBgColor : black;
+    --btnTxtColor : white
+}
+
+[data-theme="Dark"]{
+    --bgColor : black;
+    --txtColor : white;
+    --btnBgColor : white;
+    --btnTxtColor : black
+}
+.cont{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bgColor);
+    color: var(--txtColor);
+}
+.btnCont{
+    padding: 5px;
+    background-color: var(--btnBgColor);
+    color: var(--btnTxtColor);
+}
